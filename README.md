@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! Bem Vindo ao meu Perfil do GitHub, Me Chamo Lucas 👋
 
 <!--
 **LucasEman1/LucasEman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
